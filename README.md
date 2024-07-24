@@ -31,8 +31,8 @@ A comprehensive school website featuring admissions info, gallery, and contact f
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [Likhith007-ai](https://www.linkedin.com/in/m-likhith-sai/)
-- **Email:** [likhith@example.com](mailto:likhithsai7979@example.com)
+- **LinkedIn:** [m-likhith-sai/](https://www.linkedin.com/in/m-likhith-sai/)
+- **Email:** [likhithsai7979@gmail.com](mailto:likhithsai7979@gmail.com)
 
 Feel free to explore my repositories and connect with me if you have any questions or opportunities!
 
